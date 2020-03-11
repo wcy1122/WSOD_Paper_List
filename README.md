@@ -1,5 +1,6 @@
 # WSOD_Paper_List
-A list of recent Weakly Supervised Object Detection(WSOD) paper
+A list of recent Weakly Supervised Object Detection(WSOD) paper \\
+todo: A briefly analysis of these papers
 
 ## AAAI 2019
 - [Object Instance Mining for Weakly Supervised Object Detection](https://arxiv.org/pdf/2002.01087.pdf)
@@ -11,13 +12,13 @@ A list of recent Weakly Supervised Object Detection(WSOD) paper
 - [SDCN: Weakly Supervised Object Detection with Segmentation Collaboration](https://arxiv.org/pdf/1904.00551.pdf)
 - [C-MIDN: Coupled Multiple Instance Detection NetworkWith Segmentation Guidance forWeakly Supervised Object Detection](http://openaccess.thecvf.com/content_ICCV_2019/papers/Gao_C-MIDN_Coupled_Multiple_Instance_Detection_Network_With_Segmentation_Guidance_for_ICCV_2019_paper.pdf)
 
-## CVPR Workshop
-- [Utilizing the Instability in Weakly Supervised Object Detection](https://arxiv.org/pdf/1906.06023.pdf)
-
 ## CVPR 2019
 - [C-MIL: Continuation Multiple Instance Learning for Weakly Supervised Object Detection](https://arxiv.org/pdf/1904.05647.pdf)
 - [Dissimilarity Coefficient based Weakly Supervised Object Detection](https://arxiv.org/pdf/1811.10016.pdf)
-- [You reap what you sow: Using Videos to Generate High Precision Object Proposals for Weakly-supervised Object Detection]{http://openaccess.thecvf.com/content_CVPR_2019/papers/Singh_You_Reap_What_You_Sow_Using_Videos_to_Generate_High_CVPR_2019_paper.pdf}
+- [You reap what you sow: Using Videos to Generate High Precision Object Proposals for Weakly-supervised Object Detection](http://openaccess.thecvf.com/content_CVPR_2019/papers/Singh_You_Reap_What_You_Sow_Using_Videos_to_Generate_High_CVPR_2019_paper.pdf)
+
+## CVPR2019 Workshop
+- [Utilizing the Instability in Weakly Supervised Object Detection](https://arxiv.org/pdf/1906.06023.pdf)
 
 ## ECCV2018
 - [TS2C: Tight Box Mining with Surrounding Segmentation Context for Weakly Supervised Object Detection](https://arxiv.org/pdf/1807.04897.pdf)
