@@ -12,10 +12,10 @@ With **title**, **pdf link**, **code link** and **performance**.
 
 ## Catalogs
 
-- [Image label](#Image label)
-- [Object Count Label](#Object Count Label)
-- [Low-shot Object Detection](#Low-shot Object Detection)
-- [WSOD with Domain Transfer](#WSOD with Domain Transfer)
+- [Image label](#Image-label)
+- [Object Count Label](#Object-Count-Label)
+- [Low shot Object Detection](#Low-shot-Object-Detection)
+- [WSOD with Domain Transfer](#WSOD-with-Domain-Transfer)
 
 ## Image label
 
