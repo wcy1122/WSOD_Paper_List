@@ -26,7 +26,7 @@ With **title**, **pdf link**, **code link** and **performance**.
     - Performance: 53.9(MAP) 70.4(CorLoc)
 
 - **Instance-aware, Context-focused, and Memory-efficient Weakly Supervised Object Detection**
-    - **CVPR 2020**	[[`pdf`](https://arxiv.org/pdf/2004.04725.pdf)]	[[`code_unreleased`](https://github.com/NVlabs/wetectron)] 
+    - **CVPR 2020**	[[`pdf`](https://arxiv.org/pdf/2004.04725.pdf)]	[[`code_pytorch`](https://github.com/NVlabs/wetectron)] 
     - Performance: 54.9(MAP) 68.8(CorLoc)
 
 - **SLV: Spatial Likelihood Voting for Weakly Supervised Object Detection**
