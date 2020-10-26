@@ -21,6 +21,10 @@ With **title**, **pdf link**, **code link** and **performance**.
 
 ### 2020
 
+- **Comprehensive Attention Self-Distillationfor Weakly-Supervised Object Detection**
+    - **NeurIPS 2020**	[[`pdf`](https://arxiv.org/abs/2010.12023)]	[[`code_not_released`](https://github.com/DeLightCMU/CASD)] 
+    - Performance: 56.8(MAP) 70.4(CorLoc)
+
 - **Enabling Deep Residual Networks for Weakly Supervised Object Detection**
     - **ECCV 2020**	[[`pdf`](https://www.ecva.net/papers/eccv_2020/papers_ECCV/papers/123530120.pdf)]	[[`code_pytorch`](https://github.com/shenyunhang/DRN-WSOD)] 
     - Performance: 53.9(MAP) 70.4(CorLoc)
