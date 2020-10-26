@@ -1,4 +1,4 @@
-# WSOD_Paper_List
+# WSOD Paper List
 A list of Weakly Supervised Object Detection (WSOD) papers published in recent years. <br>
 With **title**, **pdf link**, **code link** and **performance**.
 
