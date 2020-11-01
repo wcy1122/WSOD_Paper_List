@@ -9,6 +9,7 @@ With **title**, **pdf link**, **code link** and **performance**.
 ### Todo 
 
 - [ ] Simple summary of some of these papers.
+- [ ] Some other weakly supervised vision understanding tasks, such as localization, segmentations.
 
 ## Catalogs
 
@@ -32,7 +33,10 @@ With **title**, **pdf link**, **code link** and **performance**.
 - **Instance-aware, Context-focused, and Memory-efficient Weakly Supervised Object Detection**
     - **CVPR 2020**	[[`pdf`](https://arxiv.org/pdf/2004.04725.pdf)]	[[`code_pytorch`](https://github.com/NVlabs/wetectron)] 
     - Performance: 54.9(MAP) 68.8(CorLoc)
-
+    - 1) MIST = OICR (top p% boxes) + bbox regress
+    - 2) Concrete DropBlock, learnable drop block
+    - 3) Sequential batch bp
+    
 - **SLV: Spatial Likelihood Voting for Weakly Supervised Object Detection**
     - **CVPR 2020**	[[`pdf`](https://arxiv.org/abs/2006.12884.pdf)]
     - Performance: 53.9(MAP) 71.0(CorLoc)
@@ -54,6 +58,7 @@ With **title**, **pdf link**, **code link** and **performance**.
 - **WSOD2: Learning Bottom-up and Top-down Objectness Distillation for Weakly-supervised Object Detection**
     - **ICCV 2019**	[[`pdf`](https://arxiv.org/pdf/1909.04972.pdf)]
     - Performance: 53.6(MAP) 69.5(CorLoc)
+    - use objectness information to guide bbox regress
 
 - **Object-Aware Instance Labeling for Weakly Supervised Object Detection**
     - **ICCV 2019**	[[`pdf`](https://arxiv.org/pdf/1908.03792.pdf)]
@@ -70,6 +75,7 @@ With **title**, **pdf link**, **code link** and **performance**.
 - **C-MIL: Continuation Multiple Instance Learning for Weakly Supervised Object Detection**
     - **CVPR 2019**	[[`pdf`](https://arxiv.org/pdf/1904.05647.pdf)]	[[`code_torch`](https://github.com/Winfrand/C-MIL)] 
     -  Performance: 50.5(MAP) 65.0(CorLoc)
+    -  use continuation optimization to replace detection stream at WSDDN
 
 - **Dissimilarity Coefficient based Weakly Supervised Object Detection**
     - **CVPR 2019**	[[`pdf`](https://arxiv.org/pdf/1811.10016.pdf)]
@@ -114,6 +120,7 @@ With **title**, **pdf link**, **code link** and **performance**.
 - **OICR: Multiple Instance Detection Network with Online Instance Classifier Refinement**
     - **CVPR 2017**	[[`pdf`](https://arxiv.org/pdf/1704.00138.pdf)]	[[`code_caffe`](https://github.com/ppengtang/oicr)]
     - Performance: 41.2(MAP) 60.6(CorLoc)
+    - Online refinement, a kind of teacher student self-learning
 
 ### 2016
 
